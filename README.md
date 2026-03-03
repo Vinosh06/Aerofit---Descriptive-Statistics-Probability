@@ -28,17 +28,17 @@ The company collected the data on individuals who purchased a treadmill from the
 ### Evaluation Criteria:
 
 1. Defining Problem Statement and Analysing basic metrics
-* 1.1 Observations on shape of data, data types of all the attributes, conversion of categorical attributes to 'category' (If required), statistical summary
-2. Non-Graphical Analysis: Value counts and unique attributes
-3. Visual Analysis - Univariate & Bivariate
-  * 3.1 For continuous variable(s): Distplot, countplot, histogram for univariate analysis
-  * 3.2 For categorical variable(s): Boxplot
-  * 3.3 For correlation: Heatmaps, Pairplots
+   * 1.1 Observations on shape of data, data types of all the attributes, conversion of categorical attributes to 'category' (If required), statistical summary
+3. Non-Graphical Analysis: Value counts and unique attributes
+4. Visual Analysis - Univariate & Bivariate
+   * 3.1 For continuous variable(s): Distplot, countplot, histogram for univariate analysis
+   * 3.2 For categorical variable(s): Boxplot
+   * 3.3 For correlation: Heatmaps, Pairplots
 4. Missing Value & Outlier Detection
 5. Business Insights based on Non-Graphical and Visual Analysis
-  * 5.1 Comments on the range of attributes
-  * 5.2 Comments on the distribution of the variables and relationship between them
-  * 5.3 Comments for each univariate and bivariate plot
+   * 5.1 Comments on the range of attributes
+   * 5.2 Comments on the distribution of the variables and relationship between them
+   * 5.3 Comments for each univariate and bivariate plot
 6. Recommendations - Actionable items for business. No technical jargon. No complications. Simple action items that everyone can understand
 
 ### What good looks like?
